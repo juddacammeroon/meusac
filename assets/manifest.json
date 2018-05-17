@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "main.js": {
+      "files": [
+        "scripts/app.js"
+      ],
+      "main": true
+    },
+    "main.css": {
+      "files": [
+        "styles/main.scss"
+      ],
+      "main": true
+    },
+    "jquery.js": {
+      "bower": ["jquery"]
+    }
+  },
+  "config": {
+    "devUrl": "http://localhost/meusac/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "reverie",
+  "author": "Vincent Kristoffer Canete",
+  "license": "MIT",
+  "dependencies": {
+    "foundation": "^5.5.3",
+    "owl.carousel": "^2.2.1",
+    "slick-carousel": "^1.8.1"
+  },
+  "overrides": {
+    "modernizr": {
+      "main": [
+        "modernizr.js"
+      ]
+    },
+    "slick-carousel": {
+      "main": [
+        "slick/slick.css",
+        "slick/slick-theme.css",
+        "slick/slick.min.js"
+      ]
+    }
+  }
+}
